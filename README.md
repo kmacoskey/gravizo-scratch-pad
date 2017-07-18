@@ -18,15 +18,9 @@ class Structural{}
 *@note Class
 */
 class Counter extends Structural {
-        static public int counter;
-        public int getCounter();
+        int counter;
+        etCounter();
 }
 
-/**
-*@opt shape activeclass
-*@opt all
-*@note Active Class
-*/
-class RunningCounter extends Counter{}
 custom_mark12
 </details>
